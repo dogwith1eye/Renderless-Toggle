@@ -1,0 +1,22 @@
+{
+  "name": "purescript-halogen-template",
+  "authors": [
+    "Thomas R. Honeyman <admin@thomashoneyman.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/citizennet/purescript-halogen-template",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-halogen": "^4.0.0",
+    "purescript-prelude": "^4.0.1",
+    "purescript-halogen-renderless": "^0.0.4"
+  }
+}
